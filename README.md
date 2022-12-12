@@ -1,16 +1,10 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+A pixel art maker in requirement of the Udacity Full Stack Development Nanodegree
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
 
-## Instructions
+Allows you to set the width and height of the grid (Number of cells)
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Select color to use (Multiple colors can be used)
+Clicking an already colored cell will undo the color and return background color to white
+Clicking Submit Clears the art.
